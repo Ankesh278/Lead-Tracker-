@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151984182291",
+    "project_id": "leadtracker-78e13",
+    "storage_bucket": "leadtracker-78e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151984182291:android:5eeb182ea872e4df915be6",
+        "android_client_info": {
+          "package_name": "com.example.lead_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWGnYVM_kHdb2hNBVmPPHJLioCwC_8f6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
